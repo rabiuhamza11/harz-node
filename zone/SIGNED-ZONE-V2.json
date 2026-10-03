@@ -1,0 +1,1470 @@
+{
+ "v": 2,
+ "zone": "harz",
+ "height": 1,
+ "prev": null,
+ "records": [
+  {
+   "v": 2,
+   "name": "ai.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-ai-gateway.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "arch.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-arch-suite.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "baraka.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-baraka.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "bridge.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-bridge.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "broadcast.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-broadcast.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "buildbot.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-buildbot.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "catalog.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-catalog.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "chain.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-chain-v2.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "cloud.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-cloud-landing.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "content.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {},
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "contracts.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-contract-gen.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "crm.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-crm.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "daily.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-daily.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "dial.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {},
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "dialweb.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-dialweb.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "dna.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-dna.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "dua.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-dua.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "edge.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-edge-telecom.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "edgenet.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-edge-net.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "estate.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://abuja-estate-city.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "eternity.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-eternity.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "evolve.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-evolve.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "exchange.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-telecom-exchange.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "faucet.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-faucet.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "film.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-film.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "forge.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-forge.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "forms.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-forms.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "gateway.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-gateway.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "gdeg.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://gdeg-web.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "genesis.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-genesis.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "gov.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-governance.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "guard.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-sentinel.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "harz.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-super-app.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "health.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-health.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "hospital.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-genesis-hospital.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "images.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://gdeg-images.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "kasuwa.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-dialweb.harz.workers.dev/site/39"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "lend.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harzlend.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "link.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-shortlink.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "maganu.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://maganu-agent.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "manager.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-manager-bot.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "markets.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-markets.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "mesh.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-mesh-lab.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "mindcare.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://mindcare-ai.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "miner.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-miner-cron.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "mining.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-mining.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "music.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harzmusic.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "net.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-connect-hub.base44.app"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "neural.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-neural.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "nexus.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-nexus.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "nlcl.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-nlcl.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "omega.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://omega-health.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "oracle.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-oracle.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "orbital.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-orbital.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "pay.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harzpay.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "poi.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-poi.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "pricing.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-pricing.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "prism.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-prism.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "root.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-root.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "rpc.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-rpc-proxy.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "scan.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-explorer.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "skyeye.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-skyeye.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "sms.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-smpp-edge.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "smsmkt.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-sms-mkt.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "spell.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-spell.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "store.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-store.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "super.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-super-app.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "swap.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-swap.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "symphony.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-symphony.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "telecom.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-telecom.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "trade.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-exchange.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "verify.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-verify.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "wa.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-whatsapp-handler.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "wallet.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-super-app.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "watch.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-monitor.harz.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "wholesale.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://harz-wholesale.hamzarabiu390.workers.dev"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  },
+  {
+   "v": 2,
+   "name": "yelwa.harz",
+   "service": "platform",
+   "identity": "PENDING",
+   "state": {
+    "height": 0,
+    "digest": ""
+   },
+   "endpoints": {
+    "https": "https://yelwa-cloud-core.base44.app"
+   },
+   "routing": {
+    "nodes": []
+   },
+   "policy": {
+    "trust": "canonical"
+   }
+  }
+ ],
+ "signed_at": "2026-09-20T21:37:59Z",
+ "signed_by": "ed25519:90062faa4947be141d5e18987aea5d14dd1c570329b57b0c50a3f6cddfc54c0f",
+ "sig": "ed25519:230e5208795966b6f7ba2a5fd7a7b57b319c0d343f97d3ad8c363d290145fd46fab7905631774a4f24dad9697ff0729032e787529d9d2ddb07569fcb49aebc03"
+}
