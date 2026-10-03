@@ -5,9 +5,9 @@ All components are UNMODIFIED copies of frozen HarzGit sources. Sha256 prefixes 
 | Kit path | sha256 (8) | Frozen source (HarzGit) | Evidence |
 |---|---|---|---|
 | zone/SIGNED-ZONE-V2.json | b4125ca1 | harz-root-v2/zone-king/ | king 90062faa, digest cac16833, 77 records; field-run Oct 3 |
-| core/harz-dns-core.js | cceebe3f | harz-network-app/v0.1/ | field-proven receipts byte-match (kasuwa 48c3a325, pay fd258227, chain ac4c204b, NXDOMAIN f289fc0e) |
-| door/harz-door.js | 207da35b | harz-network-app/v0.1/ | owner phone run Oct 3, airplane mode |
-| door/harz-netapp-browser.html | 6838c687 | harz-netapp commit 30346f3 | light theme #f0f2f5 + theme-color (OFFLINE-LINKS RULE) |
+| harz-dns-core.js | cceebe3f | harz-network-app/v0.1/ | field-proven receipts byte-match (kasuwa 48c3a325, pay fd258227, chain ac4c204b, NXDOMAIN f289fc0e) |
+| harz-door.js | 207da35b | harz-network-app/v0.1/ | owner phone run Oct 3, airplane mode |
+| harz-netapp-browser.html | 6838c687 | harz-netapp commit 30346f3 | light theme #f0f2f5 + theme-color (OFFLINE-LINKS RULE) |
 | transport/mesh-frame.js | 5f4b9bdc | harz-reach/v0.3-mesh/ | 16/16 battery, interop vs frozen Kotlin core |
 | transport/mesh-core.js | 4f47e782 | harz-reach/v0.3-mesh/ | 16/16 battery |
 | transport/zone-carrier.js | 77b3a379 | harz-reach/v0.3-mesh/ | fail-closed carrier, king baked |

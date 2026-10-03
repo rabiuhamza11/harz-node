@@ -11,7 +11,7 @@ const PASS = [], FAIL = [];
 const check = (id, name, ok, detail) => { (ok ? PASS : FAIL).push(id + ' ' + name); console.log((ok ? 'PASS ' : 'FAIL ') + id + ' — ' + name + (detail ? '  [' + detail + ']' : '')); };
 
 // ---- load frozen core ----
-const core = require('./core/harz-dns-core.js');
+const core = require('./harz-dns-core.js');
 const zoneRaw = readFileSync('./zone/SIGNED-ZONE-V2.json', 'utf8');
 const zone = JSON.parse(zoneRaw);
 

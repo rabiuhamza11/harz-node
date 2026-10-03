@@ -5,7 +5,7 @@ set -e
 cd "$(dirname "$0")"
 command -v node >/dev/null 2>&1 || { echo "node missing — install Node.js >= 18 (Termux: pkg install nodejs -y)"; exit 1; }
 [ -f zone/SIGNED-ZONE-V2.json ] || { echo "sealed zone missing"; exit 1; }
-HARZ_ZONE="$(pwd)/zone/SIGNED-ZONE-V2.json" HARZ_DOOR_PORT="${HARZ_DOOR_PORT:-8080}" node door/harz-door.js &
+HARZ_ZONE="$(pwd)/zone/SIGNED-ZONE-V2.json" HARZ_DOOR_PORT="${HARZ_DOOR_PORT:-8080}" node harz-door.js &
 DOOR_PID=$!
 sleep 1
 echo ""
