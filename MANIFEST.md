@@ -22,3 +22,14 @@ Kit-written files (not frozen): README.md, start.sh, selftest.mjs, MANIFEST.md.
 Selftest result at build: 8/8 PASS (S1-S6 field-anchored, S7-S8 kit smoke; frozen batteries remain the evidence of record).
 
 Built Oct 3, 2026, on owner's "Go". Freeze → build → verify → receipt.
+
+## v0.2 — SEARCH MODE (Oct 6, 2026) — additive, v0.1 pins untouched
+New offline capability: full HARZ Search node on the phone. All files in search/.
+Byte-exact frozen copies (verified sha256 against HarzGit originals):
+- search-core.js  853dc0ff8af3eb45cc748bb669c578e9ca90540582375b144dfe3cdeec9545a2 (frozen contract)
+- server.js       2794cb73c437f47af8b3646413a947fd75447d88ab332db8e0630cad64594071 (Node A server, UI+PWA included)
+- engine.js       f442a6a52fa898321fffeae3ec8a4c09eef0724256009a5136e8be6f21c63737 (index engine)
+- index-export.json  corpus v0.1 portable artifact, digest 8bdec9df4eb4df5ae3b1f9720d04b478092a021d93b4485832e776e562644d72, 1409 docs / 219 domains
+Federation proof (kit copy vs vault originals, both live): 30/30 BYTE-IDENTICAL.
+Totals vs Sep 25 recorded Node C evidence: 30/30 match.
+Run: bash search/start-search.sh → open http://127.0.0.1:8795/ — works in airplane mode.

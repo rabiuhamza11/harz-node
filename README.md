@@ -49,3 +49,15 @@ node selftest.mjs
 See `MANIFEST.md` for the sha256 of every frozen component and its source of truth in HarzGit. This kit is the distribution copy; HarzGit is the vault.
 
 Source of truth: HarzGit `harz-node-kit/` (build record with receipts).
+
+## SEARCH — offline search engine (v0.2, Oct 6)
+
+The full HARZ Search runs on your phone, zero internet required after install:
+
+    bash search/start-search.sh
+
+Then open http://127.0.0.1:8795/ in Chrome. Search box, real results, PWA installable.
+Turn ON airplane mode — it keeps working. Everything (corpus, index, engine, UI) is local.
+
+Together with the door (bash start.sh → http://127.0.0.1:8080), you have the HARZ browser
+experience offline: .harz name resolution + search, no internet needed.
