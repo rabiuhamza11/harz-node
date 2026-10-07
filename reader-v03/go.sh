@@ -60,7 +60,7 @@ if [ -z "$H" ]; then
   exit 1
 fi
 echo "============================================================"
-echo "  HARZ OFFLINE READER v0.3 POCKET — LISTENING"
+echo "  HARZ OFFLINE READER v0.3 $KIT — LISTENING"
 echo "  open in Chrome:   http://127.0.0.1:8802/"
 echo "  Search, tap a result, read the FULL article locally."
 echo "  Keep Termux open. NOW turn ON airplane mode —"
