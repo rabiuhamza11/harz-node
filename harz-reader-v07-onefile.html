@@ -46,10 +46,10 @@ mark.hl{background:#ffe066;padding:0 1px}
 </div>
 
 <div id="searchview">
-  <h1>HARZ Offline Reader <span class="small">v0.3 one-file</span></h1>
+  <h1>HARZ Offline Reader <span class="small">v0.7 one-file</span></h1>
   <div id="stats"></div>
   <div class="card">
-    <input type="text" id="q" placeholder="Search 932 pages — try: nigeria tax" autocomplete="off">
+    <input type="text" id="q" placeholder="Search 779 pages — try: nigeria tax" autocomplete="off">
     <div style="margin-top:6px"><button onclick="doSearch()">SEARCH</button></div>
     <div id="resinfo" class="small" style="margin-top:6px"></div>
     <div id="results"></div>
@@ -608,7 +608,7 @@ function listApps(){
   var box = $("siteres"); box.innerHTML = "";
   var live = 0;
   for (var i = 0; i < d.apps.length; i++) if (d.apps[i].status === "live") live++;
-  $("siteinfo").textContent = "HARZ ecosystem: " + live + " apps with offline shells + " + (d.apps.length - live) + " dead links recorded honestly. Shells open offline; live data still needs internet.";
+  $("siteinfo").textContent = "v0.7 carries the wired hunted reading library only (779 pages, 779 domains). The 83 offline HARZ app shells live in the v0.6 one-file — not duplicated here (No-Duplicates rule).";
   var idx = 0;
   for (var i2 = 0; i2 < d.apps.length; i2++){
     (function(app, k){
