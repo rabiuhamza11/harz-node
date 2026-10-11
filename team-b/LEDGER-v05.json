@@ -1,0 +1,98 @@
+{
+ "total": 1087324,
+ "full_text": 427071,
+ "medium_text": 658333,
+ "snippet_only": 1920,
+ "empty_text": 0,
+ "missing_hash": 0,
+ "missing_url": 0,
+ "chars_total": 7442409211,
+ "truncated_at_6000": 491,
+ "truncated_at_600": 472,
+ "usable_estimate": 1085404,
+ "top_domains": [
+  [
+   "en.wikipedia.org",
+   524035
+  ],
+  [
+   "simple.wikipedia.org",
+   171669
+  ],
+  [
+   "www.gutenberg.org",
+   163006
+  ],
+  [
+   "ha.wikipedia.org",
+   103711
+  ],
+  [
+   "ig.wikipedia.org",
+   46259
+  ],
+  [
+   "ff.wikipedia.org",
+   22961
+  ],
+  [
+   "yo.wikipedia.org",
+   12567
+  ],
+  [
+   "sw.wikipedia.org",
+   8597
+  ],
+  [
+   "businessday.ng",
+   4587
+  ],
+  [
+   "nairametrics.com",
+   3412
+  ],
+  [
+   "dailypost.ng",
+   3037
+  ],
+  [
+   "pcm.wikipedia.org",
+   1565
+  ],
+  [
+   "techcabal.com",
+   1508
+  ],
+  [
+   "tribuneonlineng.com",
+   1501
+  ],
+  [
+   "www.blueprint.ng",
+   1501
+  ],
+  [
+   "www.bbc.com",
+   1480
+  ],
+  [
+   "www.theconversation.com",
+   1385
+  ],
+  [
+   "dailytrust.com",
+   1255
+  ],
+  [
+   "thenationonlineng.net",
+   819
+  ],
+  [
+   "www.theguardian.com",
+   593
+  ]
+ ],
+ "distinct_domains": 846,
+ "scan_seconds": 31.9,
+ "master_sha_note": "append-only master, NOT modified by this scan"
+}
