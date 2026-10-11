@@ -1,0 +1,9 @@
+{
+ "d1_total": 42622,
+ "d1_with_full_text_in_master": 14536,
+ "d1_with_short_or_medium_text_in_master": 28086,
+ "d1_NO_local_copy_anywhere": 0,
+ "master_docs": 1087324,
+ "master_urls_not_in_d1": 1044702,
+ "unmatched_by_domain": []
+}
