@@ -1,0 +1,66 @@
+{
+ "verified_prefix_continuity": 160,
+ "suspect": 54,
+ "suspect_detail": [
+  {
+   "url": "https://dailytrust.com/topics/health",
+   "reason": "prefix mismatch \u2014 artifact differs from master at start; needs manual review",
+   "master_head": "Energy Drinks: The Buzz That Bites Back Walk into almost any shop in Lagos, Nair",
+   "artifact_head": "--> \u2715 CLOSE Online Special City News Entrepreneurship Environment Factcheck Ever"
+  },
+  {
+   "url": "https://dailytrust.com/topics/editorial",
+   "reason": "prefix mismatch \u2014 artifact differs from master at start; needs manual review",
+   "master_head": "Nigeria at UNGA 81 This year\u2019s United Nations General Assembly, UNGA 81, took pl",
+   "artifact_head": "--> \u2715 CLOSE Online Special City News Entrepreneurship Environment Factcheck Ever"
+  },
+  {
+   "url": "https://businessday.ng/uncategorized/article/realest-gist/",
+   "reason": "prefix mismatch \u2014 artifact differs from master at start; needs manual review",
+   "master_head": "Click the above Text to view #TheRealGist BusinessDay July 21, 2010 BusinessDay ",
+   "artifact_head": "Wednesday, October 7, 2026 Lagos --:-- London --:-- New York --:-- Dubai --:-- E"
+  },
+  {
+   "url": "https://www.bbc.com/sport/football/live/c6804z9e7e7dt",
+   "reason": "prefix mismatch \u2014 artifact differs from master at start; needs manual review",
+   "master_head": "Thanks for joining uspublished at 19:07 BST19:07 BST We are bringing to an end o",
+   "artifact_head": "Thanks for joining uspublished at 19:07 BST 7 October19:07 BST 7 October We are "
+  },
+  {
+   "url": "https://businessday.ng/analysis/article/public-financial-management-reform-can-play-a-crucial-role-in-building-africa-inc/",
+   "reason": "prefix mismatch \u2014 artifact differs from master at start; needs manual review",
+   "master_head": "Public financial management reform can play a crucial role in helping African go",
+   "artifact_head": "Share Analysts are starting to warn investors off emerging markets, fuelled by f"
+  },
+  {
+   "url": "https://businessday.ng/world/article/comcast-nears-deal-with-charter-on-18-20-billion-in-divestitures/",
+   "reason": "prefix mismatch \u2014 artifact differs from master at start; needs manual review",
+   "master_head": "Comcast nears deal with Charter on $18-$20 billion in divestitures BusinessDay N",
+   "artifact_head": "Share Comcast may divest about 4 million subscribers after its merger with Time "
+  },
+  {
+   "url": "https://businessday.ng/rest-of-the-world/article/search-for-missing-malaysian-jet-may-take-years/",
+   "reason": "prefix mismatch \u2014 artifact differs from master at start; needs manual review",
+   "master_head": "\u2018Search for missing Malaysian jet may take years\u2019 BusinessDay Nigeria's leading ",
+   "artifact_head": "Share The search for missing Malaysia Airlines Flight MH370 is likely to drag on"
+  },
+  {
+   "url": "https://techcabal.com/2014/02/20/five-amazing-facts-whatsapps-19-billion-acquisition-facebook/",
+   "reason": "prefix mismatch \u2014 artifact differs from master at start; needs manual review",
+   "master_head": "Five Amazing Facts About WhatsApp\u2019s $19 Billion Acquisition By Facebook By Banko",
+   "artifact_head": "Five Amazing Facts About WhatsApp's $19 Billion Acquisition By Facebook - TechCa"
+  },
+  {
+   "url": "https://kotlinlang.org/education/courses/",
+   "reason": "prefix mismatch \u2014 artifact differs from master at start; needs manual review",
+   "master_head": "Universities That Teach KotlinTable viewMap viewUniversity titleLocationTeaching",
+   "artifact_head": "List of Coursesv2.4.20SolutionsMultiplatformBackendAndroidCase studiesDocsLangua"
+  },
+  {
+   "url": "https://datatracker.ietf.org/liaison/2000/history/",
+   "reason": "prefix mismatch \u2014 artifact differs from master at start; needs manual review",
+   "master_head": "History for Liaison Statement LS on call for contributions to the new Focus Grou",
+   "artifact_head": "History for Liaison Statement - LS on call for contributions to the new Focus Gr"
+  }
+ ]
+}
